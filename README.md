@@ -1,6 +1,6 @@
 # HardwareWordle
 
-As part of a hardware competition hosted by Pulse (a registered student organization at UIUC), my group and I decided to make a hardware version of the puzzle game [Wordle](https://www.nytimes.com/games/wordle/index.html) by utilizing an Arduino, 12 shift registers.
+As part of a 5-hour-long hardware competition hosted by [Pulse](https://pulse.ece.illinois.edu/), my group and I decided to make a hardware version of the puzzle game [Wordle](https://www.nytimes.com/games/wordle/index.html) by utilizing an Arduino, 12 shift registers.
 
 The .ino file included contains code for
 a) the main mechanic of the game that determines which letters are correct, correct but misplaced, and incorrect
